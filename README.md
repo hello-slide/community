@@ -12,4 +12,4 @@
 
 ## Contacts
 
-- [@yuto51942](https://cateiru.com/contact)
+- [@yuto51942](https://cateiru.com/contact?title=Hello%20Slideについて)
